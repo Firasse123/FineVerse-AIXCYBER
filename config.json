@@ -1,0 +1,5 @@
+{
+  "env": "dev",
+  "audit_log": "logs/audit.log",
+  "security_events_log": "logs/security_events.log"
+}

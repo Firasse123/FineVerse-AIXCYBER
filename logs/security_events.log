@@ -1,0 +1,1 @@
+{"user_id": "u1", "ip": "1.2.3.4", "action": "failed_login", "timestamp": 0, "score": 0.3, "reasons": ["failed_login"], "flagged": false}

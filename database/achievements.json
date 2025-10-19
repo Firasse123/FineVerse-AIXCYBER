@@ -1,0 +1,4 @@
+[
+  { "id": "first_trade", "name": "🚀 First Trade", "description": "Execute first trade.", "points": 25 },
+  { "id": "diversifier", "name": "📊 Diversifier", "description": "Hold 5+ assets.", "points": 50 }
+]

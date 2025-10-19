@@ -1,0 +1,4 @@
+[
+  { "id": "BTC", "symbol": "BTC", "name": "Bitcoin", "type": "crypto", "category": "Cryptocurrency", "volatility": 0.7, "description": "The original cryptocurrency." },
+  { "id": "AAPL", "symbol": "AAPL", "name": "Apple Inc.", "type": "stock", "category": "Stock", "volatility": 0.3, "description": "Tech giant." }
+]

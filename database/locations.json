@@ -1,0 +1,4 @@
+[
+  { "id": "cryptomarket", "name": "CryptoMarket", "description": "Trade cryptocurrencies.", "icon": "crypto.svg", "background": "market-bg.jpg", "npc": "Satoshi" },
+  { "id": "stockexchange", "name": "StockExchange", "description": "Trade stocks.", "icon": "stock.svg", "background": "stock-bg.jpg", "npc": "Buffett" }
+]

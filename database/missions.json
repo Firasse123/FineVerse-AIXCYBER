@@ -1,0 +1,4 @@
+[
+  { "id": "first_trade", "name": "Make your first trade", "description": "Execute your first buy or sell.", "reward": 20, "category": "Daily", "difficulty": "Easy", "progress": 0 },
+  { "id": "diversify", "name": "Create diversified portfolio", "description": "Hold 5+ assets.", "reward": 100, "category": "Weekly", "difficulty": "Medium", "progress": 0 }
+]

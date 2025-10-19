@@ -24,6 +24,5 @@ npm install
 npm run dev
 ```
 
-## Development
-- See `.github/copilot-instructions.md` for agent guidance
-- See `/docs/prompts.md` for implementation phases
+
+
